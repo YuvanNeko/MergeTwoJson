@@ -1,0 +1,12 @@
+{
+  "key-1": "val-1",
+  "nest-key-1": {
+    "second-level": {
+      "third-level": {
+        "fourth-level": "value",
+        "fourth-level-1": "val-2",
+        "fourth-level-2": "val"
+      }
+    }
+  }
+}

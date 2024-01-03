@@ -1,0 +1,272 @@
+{
+  "Asia": {
+    "countries": {
+      "Afghanistan": {
+        "states": {
+          "Badakhshan": {
+            "cities": {
+              "Fayzabad": {
+                "population": 50000
+              },
+              "Munji": {
+                "population": 40000
+              },
+              "Shah": {
+                "population": 30000
+              }
+            }
+          },
+          "Badghis": {
+            "cities": {
+              "Qala e Naw": {
+                "population": 120000
+              },
+              "Bala Murghad": {
+                "population": 109000
+              },
+              "Jawand": {
+                "population": 145000
+              }
+            }
+          },
+          "Baghlam": {
+            "cities": {
+              "Puli Kumari": {
+                "population": 1014000
+              },
+              "Baghlam": {
+                "population": 119000
+              },
+              "Jadid": {
+                "population": 108000
+              }
+            }
+          }
+        }
+      },
+      "India": {
+        "states": {
+          "Tamil Nadu": {
+            "cities": {
+              "Chennai": {
+                "population": 7088000
+              },
+              "Coimbatore": {
+                "population": 103000
+              },
+              "Salem": {
+                "population": 830000
+              }
+            }
+          },
+          "Karala": {
+            "cities": {
+              "Thiruvanantha puram": {
+                "population": 970000
+              },
+              "Kozhikode": {
+                "population": 610000
+              },
+              "Kochi": {
+                "population": 400000
+              }
+            }
+          },
+          "Karnataka": {
+            "cities": {
+              "Bangalore": {
+                "population": 8500000
+              },
+              "Mysore": {
+                "population": 100000
+              },
+              "Mangalore": {
+                "population": 700000
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Australia": {
+    "countries": {
+      "Australia": {
+        "states": {
+          "New South Wales": {
+            "cities": {
+              "Sydney": {
+                "population": 5297000
+              },
+              "Central Coast": {
+                "population": 345000
+              },
+              "Newcastle": {
+                "population": 518000
+              }
+            }
+          },
+          "Victoria": {
+            "cities": {
+              "Melbourne": {
+                "population": 5031000
+              },
+              "Geelong": {
+                "population": 295000
+              },
+              "Ballarat": {
+                "population": 114000
+              }
+            }
+          },
+          "Queensland": {
+            "cities": {
+              "Brisbane": {
+                "population": 2628000
+              },
+              "Gold Coast": {
+                "population": 716000
+              },
+              "Sunshine Coast": {
+                "population": 397000
+              }
+            }
+          }
+        }
+      },
+      "Papua New Guinea": {
+        "states": {
+          "Morobe Province": {
+            "cities": {
+              "Lae": {
+                "population": 100000
+              },
+              "Bulolo:": {
+                "population": 9500
+              },
+              "Wau": {
+                "population": 5000
+              }
+            }
+          },
+          "Eastern Highlands Province": {
+            "cities": {
+              "Goroka": {
+                "population": 25000
+              },
+              "Kainantu": {
+                "population": 6000
+              },
+              "Henganofi": {
+                "population": 400000
+              }
+            }
+          },
+          "Western Highlands Province": {
+            "cities": {
+              "Mount Hagen": {
+                "population": 46000
+              },
+              "Tambul": {
+                "population": 100000
+              },
+              "Nebilyer": {
+                "population": 700000
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Europe": {
+    "countries": {
+      "France": {
+        "states": {
+          "Île-de-France": {
+            "cities": {
+              "Paris": {
+                "population": 2138000
+              },
+              "Boulogne-Billancourt": {
+                "population": 108782
+              },
+              "Saint-Denis": {
+                "population": 96128
+              }
+            }
+          },
+          "Auvergne-Rhône-Alpes": {
+            "cities": {
+              "Lyon": {
+                "population": 522000
+              },
+              "Grenoble": {
+                "population": 158000
+              },
+              "Saint-Étienne": {
+                "population": 173000
+              }
+            }
+          },
+          "Hauts-de-France": {
+            "cities": {
+              "Lille": {
+                "population": 227000
+              },
+              "Amiens": {
+                "population": 133000
+              },
+              "Roubaix": {
+                "population": 94000
+              }
+            }
+          }
+        }
+      },
+      "Germany": {
+        "states": {
+          "Bavaria": {
+            "cities": {
+              "Munich:": {
+                "population": 1456000
+              },
+              "Nuremberg": {
+                "population": 515000
+              },
+              "Augsburg": {
+                "population": 292000
+              }
+            }
+          },
+          "Baden-Württemberg": {
+            "cities": {
+              "Stuttgart": {
+                "population": 632000
+              },
+              "Karlsruhe": {
+                "population": 311000
+              },
+              "Mannheim": {
+                "population": 307000
+              }
+            }
+          },
+          "North Rhine-Westphalia": {
+            "cities": {
+              "Cologne:": {
+                "population": 1080000
+              },
+              "Düsseldorf": {
+                "population": 617280
+              },
+              "Dortmund": {
+                "population": 586600
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

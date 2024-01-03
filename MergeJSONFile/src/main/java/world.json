@@ -1,0 +1,306 @@
+{
+  "Asia": {
+    "countries": {
+      "Afghanistan": {
+        "states": {
+          "Badakhshan": {
+            "cities": {
+              "Fayzabad": {
+                "population": 50000
+              },
+              "Munji": {
+                "population": 40000
+              },
+              "Shah": {
+                "population": 30000
+              }
+            }
+          },
+          "Badghis": {
+            "cities": {
+              "Qala e Naw": {
+                "population": 120000
+              },
+              "Bala Murghad": {
+                "population": 109000
+              },
+              "Jawand": {
+                "population": 145000
+              }
+            }
+          },
+          "Baghlam": {
+            "cities": {
+              "Puli Kumari": {
+                "population": 1014000
+              },
+              "Baghlam": {
+                "population": 119000
+              },
+              "Jadid": {
+                "population": 108000
+              }
+            }
+          }
+        }
+      },
+      "India": {
+        "states": {
+          "Tamil Nadu": {
+            "cities": {
+              "Chennai": {
+                "population": 7088000
+              },
+              "Coimbatore": {
+                "population": 103000
+              },
+              "Salem": {
+                "population": 830000
+              }
+            }
+          },
+          "Karala": {
+            "cities": {
+              "Thiruvanantha puram": {
+                "population": 970000
+              },
+              "Kozhikode": {
+                "population": 610000
+              },
+              "Kochi": {
+                "population": 400000
+              }
+            }
+          },
+          "Karnataka": {
+            "cities": {
+              "Bangalore": {
+                "population": 8500000
+              },
+              "Mysore": {
+                "population": 100000
+              },
+              "Mangalore": {
+                "population": 700000
+              }
+            }
+          }
+        }
+      },
+      "Japan": {
+        "states": {
+          "Aichi Prefecture": {
+            "cities": {
+              "Nagoya": {
+                "population": 2333400
+              },
+              "Toyata": {
+                "population": 422000
+              }
+            }
+          },
+          "Akita Prefecture": {
+            "cities": {
+              "Akita": {
+                "population": 307000
+              },
+              "Yokete": {
+                "population": 85000
+              }
+            }
+          },
+          "Aomori Prefecture": {
+            "cities": {
+              "Aomori": {
+                "population": 275000
+              },
+              "Hachinohe": {
+                "population": 233500
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "North America": {
+    "countries": {
+      "United States": {
+        "states": {
+          "California": {
+            "cities": {
+              "Los Angeles": {
+                "population": 3822000
+              },
+              "San Diego": {
+                "population": 1381000
+              },
+              "San Jose": {
+                "population": 971000
+              }
+            }
+          },
+          "Texas": {
+            "cities": {
+              "Houston": {
+                "population": 22000000
+              },
+              "San Antonio": {
+                "population": 14000000
+              },
+              "Dallas": {
+                "population": 13000000
+              }
+            }
+          },
+          "New York": {
+            "cities": {
+              "New York City": {
+                "population": 7888000
+              },
+              "Buffalo": {
+                "population": 258000
+              },
+              "Rochester": {
+                "population": 100000
+              }
+            }
+          }
+        }
+      },
+      "Mexico": {
+        "states": {
+          "Baja California": {
+            "cities": {
+              "Tijumana": {
+                "population": 1950000
+              },
+              "Mexicali": {
+                "population": 996000
+              },
+              "Ensenada": {
+                "population": 690000
+              }
+            }
+          },
+          "Chihuahua": {
+            "cities": {
+              "Chihuahua City": {
+                "population": 925000
+              },
+              "Chudad": {
+                "population": 1512000
+              },
+              "Delicias": {
+                "population": 400000
+              }
+            }
+          },
+          "Durango": {
+            "cities": {
+              "Durango": {
+                "population": 6888000
+              },
+              "Gómez Palacio": {
+                "population": 100000
+              },
+              "Ciudad Lerdo": {
+                "population": 700000
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "South America": {
+    "countries": {
+      "Argentina": {
+        "states": {
+          "Buenos Aires": {
+            "cities": {
+              "Buenos Aires": {
+                "population": 2936000
+              },
+              "La Plata": {
+                "population": 643000
+              },
+              "Mar del Plata:": {
+                "population": 593000
+              }
+            }
+          },
+          "Córdoba": {
+            "cities": {
+              "Córdoba City": {
+                "population": 1317000
+              },
+              "Villa María": {
+                "population": 109000
+              },
+              "Río Cuarto": {
+                "population": 145000
+              }
+            }
+          },
+          "Santa Fe": {
+            "cities": {
+              "Santa Fe City": {
+                "population": 391164
+              },
+              "Rosario": {
+                "population": 1193000
+              },
+              "Rafaela": {
+                "population": 108000
+              }
+            }
+          }
+        }
+      },
+      "Brazil": {
+        "states": {
+          "São Paulo": {
+            "cities": {
+              "São Paulo City": {
+                "population": 12252000
+              },
+              "Guarulhos:": {
+                "population": 1379000
+              },
+              "Campinas": {
+                "population": 1204000
+              }
+            }
+          },
+          "Rio de Janeiro": {
+            "cities": {
+              "Rio de Janeiro City": {
+                "population": 6450000
+              },
+              "São Gonçalo": {
+                "population": 610000
+              },
+              "Duque de Caxias": {
+                "population": 400000
+              }
+            }
+          },
+          "Bahia": {
+            "cities": {
+              "Salvador": {
+                "population": 2872000
+              },
+              "São Luís": {
+                "population": 100000
+              },
+              "São Gonçalo": {
+                "population": 700000
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
